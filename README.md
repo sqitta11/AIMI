@@ -12,7 +12,7 @@ nnUNet/nnunetv2/training/loss/focalloss2.py
 
 The nnUNetTrainer function (for 1000 epochs) can be found at:
 
-/nnUNet/nnunetv2/training/nnUNetTrainer/variants/nnUNetTrainerFocalLoss1000.py
+nnUNet/nnunetv2/training/nnUNetTrainer/variants/loss/nnUNetTrainerFocalLoss1000.py
 
 ## Parameters
 
