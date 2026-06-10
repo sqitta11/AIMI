@@ -8,7 +8,7 @@ The bash scripts can be used as an example to train the baseline model and the f
 
 The focal loss function can be found at: 
 
-/nnUNet/nnunetv2/training/loss/focalloss2.py
+nnUNet/nnunetv2/training/loss/focalloss2.py
 
 The nnUNetTrainer function (for 1000 epochs) can be found at:
 
